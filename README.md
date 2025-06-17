@@ -1,5 +1,5 @@
 
-=> Temperature Monitor
+=> Weather Monitor
 
  Use an  DHT11 sensor to read temperature and humidity.
 
